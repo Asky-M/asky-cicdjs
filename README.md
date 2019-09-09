@@ -1,5 +1,4 @@
-# CI/CD with heroku
-
+# CD with heroku (Continuous Deployment)
 ## create repository
 ## clone repository
 ## add, commit and push your code
@@ -9,4 +8,6 @@
 ## set up staging
 ## set up enable review apps
 
-# Wait a minutes
+# CI with travisCI (Continuous Integration)
+## read documentation for learn
+# 
